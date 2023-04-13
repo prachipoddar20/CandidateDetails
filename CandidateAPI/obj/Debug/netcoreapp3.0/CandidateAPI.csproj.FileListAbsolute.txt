@@ -1,0 +1,286 @@
+C:/Users/gagandeepga/Desktop/ctx/CandidateAPI/CandidateAPI/bin/Debug/netcoreapp3.0/appsettings.Development.json
+C:/Users/gagandeepga/Desktop/ctx/CandidateAPI/CandidateAPI/bin/Debug/netcoreapp3.0/appsettings.json
+C:/Users/gagandeepga/Desktop/ctx/CandidateAPI/CandidateAPI/bin/Debug/netcoreapp3.0/CandidateAPI.exe
+C:/Users/gagandeepga/Desktop/ctx/CandidateAPI/CandidateAPI/bin/Debug/netcoreapp3.0/CandidateAPI.deps.json
+C:/Users/gagandeepga/Desktop/ctx/CandidateAPI/CandidateAPI/bin/Debug/netcoreapp3.0/CandidateAPI.runtimeconfig.json
+C:/Users/gagandeepga/Desktop/ctx/CandidateAPI/CandidateAPI/bin/Debug/netcoreapp3.0/CandidateAPI.runtimeconfig.dev.json
+C:/Users/gagandeepga/Desktop/ctx/CandidateAPI/CandidateAPI/bin/Debug/netcoreapp3.0/CandidateAPI.dll
+C:/Users/gagandeepga/Desktop/ctx/CandidateAPI/CandidateAPI/bin/Debug/netcoreapp3.0/CandidateAPI.pdb
+C:/Users/gagandeepga/Desktop/ctx/CandidateAPI/CandidateAPI/bin/Debug/netcoreapp3.0/Castle.Core.dll
+C:/Users/gagandeepga/Desktop/ctx/CandidateAPI/CandidateAPI/bin/Debug/netcoreapp3.0/Microsoft.AspNetCore.Mvc.Versioning.dll
+C:/Users/gagandeepga/Desktop/ctx/CandidateAPI/CandidateAPI/bin/Debug/netcoreapp3.0/Microsoft.Data.SqlClient.dll
+C:/Users/gagandeepga/Desktop/ctx/CandidateAPI/CandidateAPI/bin/Debug/netcoreapp3.0/Microsoft.Data.Sqlite.dll
+C:/Users/gagandeepga/Desktop/ctx/CandidateAPI/CandidateAPI/bin/Debug/netcoreapp3.0/Microsoft.DotNet.PlatformAbstractions.dll
+C:/Users/gagandeepga/Desktop/ctx/CandidateAPI/CandidateAPI/bin/Debug/netcoreapp3.0/Microsoft.EntityFrameworkCore.dll
+C:/Users/gagandeepga/Desktop/ctx/CandidateAPI/CandidateAPI/bin/Debug/netcoreapp3.0/Microsoft.EntityFrameworkCore.Abstractions.dll
+C:/Users/gagandeepga/Desktop/ctx/CandidateAPI/CandidateAPI/bin/Debug/netcoreapp3.0/Microsoft.EntityFrameworkCore.Design.dll
+C:/Users/gagandeepga/Desktop/ctx/CandidateAPI/CandidateAPI/bin/Debug/netcoreapp3.0/Microsoft.EntityFrameworkCore.InMemory.dll
+C:/Users/gagandeepga/Desktop/ctx/CandidateAPI/CandidateAPI/bin/Debug/netcoreapp3.0/Microsoft.EntityFrameworkCore.Proxies.dll
+C:/Users/gagandeepga/Desktop/ctx/CandidateAPI/CandidateAPI/bin/Debug/netcoreapp3.0/Microsoft.EntityFrameworkCore.Relational.dll
+C:/Users/gagandeepga/Desktop/ctx/CandidateAPI/CandidateAPI/bin/Debug/netcoreapp3.0/Microsoft.EntityFrameworkCore.Sqlite.dll
+C:/Users/gagandeepga/Desktop/ctx/CandidateAPI/CandidateAPI/bin/Debug/netcoreapp3.0/Microsoft.EntityFrameworkCore.SqlServer.dll
+C:/Users/gagandeepga/Desktop/ctx/CandidateAPI/CandidateAPI/bin/Debug/netcoreapp3.0/Microsoft.Extensions.DependencyModel.dll
+C:/Users/gagandeepga/Desktop/ctx/CandidateAPI/CandidateAPI/bin/Debug/netcoreapp3.0/Microsoft.Identity.Client.dll
+C:/Users/gagandeepga/Desktop/ctx/CandidateAPI/CandidateAPI/bin/Debug/netcoreapp3.0/Microsoft.OpenApi.dll
+C:/Users/gagandeepga/Desktop/ctx/CandidateAPI/CandidateAPI/bin/Debug/netcoreapp3.0/Newtonsoft.Json.dll
+C:/Users/gagandeepga/Desktop/ctx/CandidateAPI/CandidateAPI/bin/Debug/netcoreapp3.0/SQLitePCLRaw.batteries_v2.dll
+C:/Users/gagandeepga/Desktop/ctx/CandidateAPI/CandidateAPI/bin/Debug/netcoreapp3.0/SQLitePCLRaw.nativelibrary.dll
+C:/Users/gagandeepga/Desktop/ctx/CandidateAPI/CandidateAPI/bin/Debug/netcoreapp3.0/SQLitePCLRaw.core.dll
+C:/Users/gagandeepga/Desktop/ctx/CandidateAPI/CandidateAPI/bin/Debug/netcoreapp3.0/SQLitePCLRaw.provider.dynamic_cdecl.dll
+C:/Users/gagandeepga/Desktop/ctx/CandidateAPI/CandidateAPI/bin/Debug/netcoreapp3.0/Swashbuckle.AspNetCore.Swagger.dll
+C:/Users/gagandeepga/Desktop/ctx/CandidateAPI/CandidateAPI/bin/Debug/netcoreapp3.0/Swashbuckle.AspNetCore.SwaggerGen.dll
+C:/Users/gagandeepga/Desktop/ctx/CandidateAPI/CandidateAPI/bin/Debug/netcoreapp3.0/Swashbuckle.AspNetCore.SwaggerUI.dll
+C:/Users/gagandeepga/Desktop/ctx/CandidateAPI/CandidateAPI/bin/Debug/netcoreapp3.0/System.Configuration.ConfigurationManager.dll
+C:/Users/gagandeepga/Desktop/ctx/CandidateAPI/CandidateAPI/bin/Debug/netcoreapp3.0/System.Runtime.Caching.dll
+C:/Users/gagandeepga/Desktop/ctx/CandidateAPI/CandidateAPI/bin/Debug/netcoreapp3.0/System.Security.Cryptography.ProtectedData.dll
+C:/Users/gagandeepga/Desktop/ctx/CandidateAPI/CandidateAPI/bin/Debug/netcoreapp3.0/runtimes/unix/lib/netcoreapp2.1/Microsoft.Data.SqlClient.dll
+C:/Users/gagandeepga/Desktop/ctx/CandidateAPI/CandidateAPI/bin/Debug/netcoreapp3.0/runtimes/win/lib/netcoreapp2.1/Microsoft.Data.SqlClient.dll
+C:/Users/gagandeepga/Desktop/ctx/CandidateAPI/CandidateAPI/bin/Debug/netcoreapp3.0/runtimes/win-arm64/native/sni.dll
+C:/Users/gagandeepga/Desktop/ctx/CandidateAPI/CandidateAPI/bin/Debug/netcoreapp3.0/runtimes/win-x64/native/sni.dll
+C:/Users/gagandeepga/Desktop/ctx/CandidateAPI/CandidateAPI/bin/Debug/netcoreapp3.0/runtimes/win-x86/native/sni.dll
+C:/Users/gagandeepga/Desktop/ctx/CandidateAPI/CandidateAPI/bin/Debug/netcoreapp3.0/runtimes/alpine-x64/native/libe_sqlite3.so
+C:/Users/gagandeepga/Desktop/ctx/CandidateAPI/CandidateAPI/bin/Debug/netcoreapp3.0/runtimes/linux-arm/native/libe_sqlite3.so
+C:/Users/gagandeepga/Desktop/ctx/CandidateAPI/CandidateAPI/bin/Debug/netcoreapp3.0/runtimes/linux-arm64/native/libe_sqlite3.so
+C:/Users/gagandeepga/Desktop/ctx/CandidateAPI/CandidateAPI/bin/Debug/netcoreapp3.0/runtimes/linux-armel/native/libe_sqlite3.so
+C:/Users/gagandeepga/Desktop/ctx/CandidateAPI/CandidateAPI/bin/Debug/netcoreapp3.0/runtimes/linux-musl-x64/native/libe_sqlite3.so
+C:/Users/gagandeepga/Desktop/ctx/CandidateAPI/CandidateAPI/bin/Debug/netcoreapp3.0/runtimes/linux-x64/native/libe_sqlite3.so
+C:/Users/gagandeepga/Desktop/ctx/CandidateAPI/CandidateAPI/bin/Debug/netcoreapp3.0/runtimes/linux-x86/native/libe_sqlite3.so
+C:/Users/gagandeepga/Desktop/ctx/CandidateAPI/CandidateAPI/bin/Debug/netcoreapp3.0/runtimes/osx-x64/native/libe_sqlite3.dylib
+C:/Users/gagandeepga/Desktop/ctx/CandidateAPI/CandidateAPI/bin/Debug/netcoreapp3.0/runtimes/win-arm/native/e_sqlite3.dll
+C:/Users/gagandeepga/Desktop/ctx/CandidateAPI/CandidateAPI/bin/Debug/netcoreapp3.0/runtimes/win-arm64/native/e_sqlite3.dll
+C:/Users/gagandeepga/Desktop/ctx/CandidateAPI/CandidateAPI/bin/Debug/netcoreapp3.0/runtimes/win-x64/native/e_sqlite3.dll
+C:/Users/gagandeepga/Desktop/ctx/CandidateAPI/CandidateAPI/bin/Debug/netcoreapp3.0/runtimes/win-x86/native/e_sqlite3.dll
+C:/Users/gagandeepga/Desktop/ctx/CandidateAPI/CandidateAPI/bin/Debug/netcoreapp3.0/runtimes/unix/lib/netcoreapp2.0/System.Runtime.Caching.dll
+C:/Users/gagandeepga/Desktop/ctx/CandidateAPI/CandidateAPI/bin/Debug/netcoreapp3.0/runtimes/win/lib/netcoreapp2.0/System.Runtime.Caching.dll
+C:/Users/gagandeepga/Desktop/ctx/CandidateAPI/CandidateAPI/bin/Debug/netcoreapp3.0/runtimes/win/lib/netstandard2.0/System.Security.Cryptography.ProtectedData.dll
+C:/Users/gagandeepga/Desktop/ctx/CandidateAPI/CandidateAPI/obj/Debug/netcoreapp3.0/CandidateAPI.AssemblyInfoInputs.cache
+C:/Users/gagandeepga/Desktop/ctx/CandidateAPI/CandidateAPI/obj/Debug/netcoreapp3.0/CandidateAPI.AssemblyInfo.cs
+C:/Users/gagandeepga/Desktop/ctx/CandidateAPI/CandidateAPI/obj/Debug/netcoreapp3.0/CandidateAPI.csproj.CoreCompileInputs.cache
+C:/Users/gagandeepga/Desktop/ctx/CandidateAPI/CandidateAPI/obj/Debug/netcoreapp3.0/CandidateAPI.MvcApplicationPartsAssemblyInfo.cs
+C:/Users/gagandeepga/Desktop/ctx/CandidateAPI/CandidateAPI/obj/Debug/netcoreapp3.0/CandidateAPI.MvcApplicationPartsAssemblyInfo.cache
+C:/Users/gagandeepga/Desktop/ctx/CandidateAPI/CandidateAPI/obj/Debug/netcoreapp3.0/staticwebassets/CandidateAPI.StaticWebAssets.Manifest.cache
+C:/Users/gagandeepga/Desktop/ctx/CandidateAPI/CandidateAPI/obj/Debug/netcoreapp3.0/staticwebassets/CandidateAPI.StaticWebAssets.xml
+C:/Users/gagandeepga/Desktop/ctx/CandidateAPI/CandidateAPI/obj/Debug/netcoreapp3.0/scopedcss/bundle/CandidateAPI.styles.css
+C:/Users/gagandeepga/Desktop/ctx/CandidateAPI/CandidateAPI/obj/Debug/netcoreapp3.0/CandidateAPI.RazorTargetAssemblyInfo.cache
+C:/Users/gagandeepga/Desktop/ctx/CandidateAPI/CandidateAPI/obj/Debug/netcoreapp3.0/CandidateAPI.csproj.CopyComplete
+C:/Users/gagandeepga/Desktop/ctx/CandidateAPI/CandidateAPI/obj/Debug/netcoreapp3.0/CandidateAPI.dll
+C:/Users/gagandeepga/Desktop/ctx/CandidateAPI/CandidateAPI/obj/Debug/netcoreapp3.0/CandidateAPI.pdb
+C:/Users/gagandeepga/Desktop/ctx/CandidateAPI/CandidateAPI/obj/Debug/netcoreapp3.0/CandidateAPI.genruntimeconfig.cache
+C:/Users/gagandeepga/Desktop/ctx/CandidateAPI/CandidateAPI/obj/Debug/netcoreapp3.0/CandidateAPI.csproj.AssemblyReference.cache
+/projects/challenge/CandidateAPI/obj/Debug/netcoreapp3.0/CandidateAPI.csprojAssemblyReference.cache
+/projects/challenge/CandidateAPI/obj/Debug/netcoreapp3.0/CandidateAPI.AssemblyInfoInputs.cache
+/projects/challenge/CandidateAPI/obj/Debug/netcoreapp3.0/CandidateAPI.AssemblyInfo.cs
+/projects/challenge/CandidateAPI/obj/Debug/netcoreapp3.0/CandidateAPI.csproj.CoreCompileInputs.cache
+/projects/challenge/CandidateAPI/obj/Debug/netcoreapp3.0/CandidateAPI.MvcApplicationPartsAssemblyInfo.cs
+/projects/challenge/CandidateAPI/obj/Debug/netcoreapp3.0/CandidateAPI.MvcApplicationPartsAssemblyInfo.cache
+/projects/challenge/CandidateAPI/obj/Debug/netcoreapp3.0/CandidateAPI.dll
+/projects/challenge/CandidateAPI/obj/Debug/netcoreapp3.0/CandidateAPI.pdb
+/projects/challenge/CandidateAPI/bin/Debug/netcoreapp3.0/appsettings.Development.json
+/projects/challenge/CandidateAPI/bin/Debug/netcoreapp3.0/appsettings.json
+/projects/challenge/CandidateAPI/bin/Debug/netcoreapp3.0/Properties/launchSettings.json
+/projects/challenge/CandidateAPI/bin/Debug/netcoreapp3.0/CandidateAPI
+/projects/challenge/CandidateAPI/bin/Debug/netcoreapp3.0/CandidateAPI.deps.json
+/projects/challenge/CandidateAPI/bin/Debug/netcoreapp3.0/CandidateAPI.runtimeconfig.json
+/projects/challenge/CandidateAPI/bin/Debug/netcoreapp3.0/CandidateAPI.runtimeconfig.dev.json
+/projects/challenge/CandidateAPI/bin/Debug/netcoreapp3.0/CandidateAPI.dll
+/projects/challenge/CandidateAPI/bin/Debug/netcoreapp3.0/CandidateAPI.pdb
+/projects/challenge/CandidateAPI/bin/Debug/netcoreapp3.0/Castle.Core.dll
+/projects/challenge/CandidateAPI/bin/Debug/netcoreapp3.0/Microsoft.AspNetCore.Mvc.Versioning.dll
+/projects/challenge/CandidateAPI/bin/Debug/netcoreapp3.0/Microsoft.Data.SqlClient.dll
+/projects/challenge/CandidateAPI/bin/Debug/netcoreapp3.0/Microsoft.Data.Sqlite.dll
+/projects/challenge/CandidateAPI/bin/Debug/netcoreapp3.0/Microsoft.DotNet.PlatformAbstractions.dll
+/projects/challenge/CandidateAPI/bin/Debug/netcoreapp3.0/Microsoft.EntityFrameworkCore.dll
+/projects/challenge/CandidateAPI/bin/Debug/netcoreapp3.0/Microsoft.EntityFrameworkCore.Abstractions.dll
+/projects/challenge/CandidateAPI/bin/Debug/netcoreapp3.0/Microsoft.EntityFrameworkCore.Design.dll
+/projects/challenge/CandidateAPI/bin/Debug/netcoreapp3.0/Microsoft.EntityFrameworkCore.InMemory.dll
+/projects/challenge/CandidateAPI/bin/Debug/netcoreapp3.0/Microsoft.EntityFrameworkCore.Proxies.dll
+/projects/challenge/CandidateAPI/bin/Debug/netcoreapp3.0/Microsoft.EntityFrameworkCore.Relational.dll
+/projects/challenge/CandidateAPI/bin/Debug/netcoreapp3.0/Microsoft.EntityFrameworkCore.Sqlite.dll
+/projects/challenge/CandidateAPI/bin/Debug/netcoreapp3.0/Microsoft.EntityFrameworkCore.SqlServer.dll
+/projects/challenge/CandidateAPI/bin/Debug/netcoreapp3.0/Microsoft.Extensions.DependencyModel.dll
+/projects/challenge/CandidateAPI/bin/Debug/netcoreapp3.0/Microsoft.Identity.Client.dll
+/projects/challenge/CandidateAPI/bin/Debug/netcoreapp3.0/Microsoft.OpenApi.dll
+/projects/challenge/CandidateAPI/bin/Debug/netcoreapp3.0/Newtonsoft.Json.dll
+/projects/challenge/CandidateAPI/bin/Debug/netcoreapp3.0/SQLitePCLRaw.batteries_v2.dll
+/projects/challenge/CandidateAPI/bin/Debug/netcoreapp3.0/SQLitePCLRaw.nativelibrary.dll
+/projects/challenge/CandidateAPI/bin/Debug/netcoreapp3.0/SQLitePCLRaw.core.dll
+/projects/challenge/CandidateAPI/bin/Debug/netcoreapp3.0/SQLitePCLRaw.provider.dynamic_cdecl.dll
+/projects/challenge/CandidateAPI/bin/Debug/netcoreapp3.0/Swashbuckle.AspNetCore.Swagger.dll
+/projects/challenge/CandidateAPI/bin/Debug/netcoreapp3.0/Swashbuckle.AspNetCore.SwaggerGen.dll
+/projects/challenge/CandidateAPI/bin/Debug/netcoreapp3.0/Swashbuckle.AspNetCore.SwaggerUI.dll
+/projects/challenge/CandidateAPI/bin/Debug/netcoreapp3.0/System.Configuration.ConfigurationManager.dll
+/projects/challenge/CandidateAPI/bin/Debug/netcoreapp3.0/System.Runtime.Caching.dll
+/projects/challenge/CandidateAPI/bin/Debug/netcoreapp3.0/System.Security.Cryptography.ProtectedData.dll
+/projects/challenge/CandidateAPI/bin/Debug/netcoreapp3.0/runtimes/unix/lib/netcoreapp2.1/Microsoft.Data.SqlClient.dll
+/projects/challenge/CandidateAPI/bin/Debug/netcoreapp3.0/runtimes/win/lib/netcoreapp2.1/Microsoft.Data.SqlClient.dll
+/projects/challenge/CandidateAPI/bin/Debug/netcoreapp3.0/runtimes/win-arm64/native/sni.dll
+/projects/challenge/CandidateAPI/bin/Debug/netcoreapp3.0/runtimes/win-x64/native/sni.dll
+/projects/challenge/CandidateAPI/bin/Debug/netcoreapp3.0/runtimes/win-x86/native/sni.dll
+/projects/challenge/CandidateAPI/bin/Debug/netcoreapp3.0/runtimes/alpine-x64/native/libe_sqlite3.so
+/projects/challenge/CandidateAPI/bin/Debug/netcoreapp3.0/runtimes/linux-arm/native/libe_sqlite3.so
+/projects/challenge/CandidateAPI/bin/Debug/netcoreapp3.0/runtimes/linux-arm64/native/libe_sqlite3.so
+/projects/challenge/CandidateAPI/bin/Debug/netcoreapp3.0/runtimes/linux-armel/native/libe_sqlite3.so
+/projects/challenge/CandidateAPI/bin/Debug/netcoreapp3.0/runtimes/linux-musl-x64/native/libe_sqlite3.so
+/projects/challenge/CandidateAPI/bin/Debug/netcoreapp3.0/runtimes/linux-x64/native/libe_sqlite3.so
+/projects/challenge/CandidateAPI/bin/Debug/netcoreapp3.0/runtimes/linux-x86/native/libe_sqlite3.so
+/projects/challenge/CandidateAPI/bin/Debug/netcoreapp3.0/runtimes/osx-x64/native/libe_sqlite3.dylib
+/projects/challenge/CandidateAPI/bin/Debug/netcoreapp3.0/runtimes/win-arm/native/e_sqlite3.dll
+/projects/challenge/CandidateAPI/bin/Debug/netcoreapp3.0/runtimes/win-arm64/native/e_sqlite3.dll
+/projects/challenge/CandidateAPI/bin/Debug/netcoreapp3.0/runtimes/win-x64/native/e_sqlite3.dll
+/projects/challenge/CandidateAPI/bin/Debug/netcoreapp3.0/runtimes/win-x86/native/e_sqlite3.dll
+/projects/challenge/CandidateAPI/bin/Debug/netcoreapp3.0/runtimes/unix/lib/netcoreapp2.0/System.Runtime.Caching.dll
+/projects/challenge/CandidateAPI/bin/Debug/netcoreapp3.0/runtimes/win/lib/netcoreapp2.0/System.Runtime.Caching.dll
+/projects/challenge/CandidateAPI/bin/Debug/netcoreapp3.0/runtimes/win/lib/netstandard2.0/System.Security.Cryptography.ProtectedData.dll
+/projects/challenge/CandidateAPI/obj/Debug/netcoreapp3.0/CandidateAPI.RazorTargetAssemblyInfo.cache
+/projects/challenge/CandidateAPI/obj/Debug/netcoreapp3.0/CandidateAPI.csproj.CopyComplete
+/projects/challenge/CandidateAPI/obj/Debug/netcoreapp3.0/staticwebassets/CandidateAPI.StaticWebAssets.Manifest.cache
+/projects/challenge/CandidateAPI/obj/Debug/netcoreapp3.0/staticwebassets/CandidateAPI.StaticWebAssets.xml
+/projects/challenge/CandidateAPI/obj/Debug/netcoreapp3.0/CandidateAPI.genruntimeconfig.cache
+C:\Users\ppoddar\Downloads\18_2e_c492_56cc_46d6_ac23_9f0352eebe99_master (1)\CandidateAPI\bin\Debug\netcoreapp3.0\appsettings.Development.json
+C:\Users\ppoddar\Downloads\18_2e_c492_56cc_46d6_ac23_9f0352eebe99_master (1)\CandidateAPI\bin\Debug\netcoreapp3.0\appsettings.json
+C:\Users\ppoddar\Downloads\18_2e_c492_56cc_46d6_ac23_9f0352eebe99_master (1)\CandidateAPI\bin\Debug\netcoreapp3.0\CandidateAPI.StaticWebAssets.xml
+C:\Users\ppoddar\Downloads\18_2e_c492_56cc_46d6_ac23_9f0352eebe99_master (1)\CandidateAPI\bin\Debug\netcoreapp3.0\CandidateAPI.exe
+C:\Users\ppoddar\Downloads\18_2e_c492_56cc_46d6_ac23_9f0352eebe99_master (1)\CandidateAPI\bin\Debug\netcoreapp3.0\CandidateAPI.deps.json
+C:\Users\ppoddar\Downloads\18_2e_c492_56cc_46d6_ac23_9f0352eebe99_master (1)\CandidateAPI\bin\Debug\netcoreapp3.0\CandidateAPI.runtimeconfig.json
+C:\Users\ppoddar\Downloads\18_2e_c492_56cc_46d6_ac23_9f0352eebe99_master (1)\CandidateAPI\bin\Debug\netcoreapp3.0\CandidateAPI.runtimeconfig.dev.json
+C:\Users\ppoddar\Downloads\18_2e_c492_56cc_46d6_ac23_9f0352eebe99_master (1)\CandidateAPI\bin\Debug\netcoreapp3.0\CandidateAPI.dll
+C:\Users\ppoddar\Downloads\18_2e_c492_56cc_46d6_ac23_9f0352eebe99_master (1)\CandidateAPI\bin\Debug\netcoreapp3.0\CandidateAPI.pdb
+C:\Users\ppoddar\Downloads\18_2e_c492_56cc_46d6_ac23_9f0352eebe99_master (1)\CandidateAPI\bin\Debug\netcoreapp3.0\Castle.Core.dll
+C:\Users\ppoddar\Downloads\18_2e_c492_56cc_46d6_ac23_9f0352eebe99_master (1)\CandidateAPI\bin\Debug\netcoreapp3.0\Microsoft.AspNetCore.Mvc.Versioning.dll
+C:\Users\ppoddar\Downloads\18_2e_c492_56cc_46d6_ac23_9f0352eebe99_master (1)\CandidateAPI\bin\Debug\netcoreapp3.0\Microsoft.Data.SqlClient.dll
+C:\Users\ppoddar\Downloads\18_2e_c492_56cc_46d6_ac23_9f0352eebe99_master (1)\CandidateAPI\bin\Debug\netcoreapp3.0\Microsoft.Data.Sqlite.dll
+C:\Users\ppoddar\Downloads\18_2e_c492_56cc_46d6_ac23_9f0352eebe99_master (1)\CandidateAPI\bin\Debug\netcoreapp3.0\Microsoft.DotNet.PlatformAbstractions.dll
+C:\Users\ppoddar\Downloads\18_2e_c492_56cc_46d6_ac23_9f0352eebe99_master (1)\CandidateAPI\bin\Debug\netcoreapp3.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\ppoddar\Downloads\18_2e_c492_56cc_46d6_ac23_9f0352eebe99_master (1)\CandidateAPI\bin\Debug\netcoreapp3.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\ppoddar\Downloads\18_2e_c492_56cc_46d6_ac23_9f0352eebe99_master (1)\CandidateAPI\bin\Debug\netcoreapp3.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\ppoddar\Downloads\18_2e_c492_56cc_46d6_ac23_9f0352eebe99_master (1)\CandidateAPI\bin\Debug\netcoreapp3.0\Microsoft.EntityFrameworkCore.InMemory.dll
+C:\Users\ppoddar\Downloads\18_2e_c492_56cc_46d6_ac23_9f0352eebe99_master (1)\CandidateAPI\bin\Debug\netcoreapp3.0\Microsoft.EntityFrameworkCore.Proxies.dll
+C:\Users\ppoddar\Downloads\18_2e_c492_56cc_46d6_ac23_9f0352eebe99_master (1)\CandidateAPI\bin\Debug\netcoreapp3.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\ppoddar\Downloads\18_2e_c492_56cc_46d6_ac23_9f0352eebe99_master (1)\CandidateAPI\bin\Debug\netcoreapp3.0\Microsoft.EntityFrameworkCore.Sqlite.dll
+C:\Users\ppoddar\Downloads\18_2e_c492_56cc_46d6_ac23_9f0352eebe99_master (1)\CandidateAPI\bin\Debug\netcoreapp3.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\ppoddar\Downloads\18_2e_c492_56cc_46d6_ac23_9f0352eebe99_master (1)\CandidateAPI\bin\Debug\netcoreapp3.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\ppoddar\Downloads\18_2e_c492_56cc_46d6_ac23_9f0352eebe99_master (1)\CandidateAPI\bin\Debug\netcoreapp3.0\Microsoft.Identity.Client.dll
+C:\Users\ppoddar\Downloads\18_2e_c492_56cc_46d6_ac23_9f0352eebe99_master (1)\CandidateAPI\bin\Debug\netcoreapp3.0\Microsoft.OpenApi.dll
+C:\Users\ppoddar\Downloads\18_2e_c492_56cc_46d6_ac23_9f0352eebe99_master (1)\CandidateAPI\bin\Debug\netcoreapp3.0\Newtonsoft.Json.dll
+C:\Users\ppoddar\Downloads\18_2e_c492_56cc_46d6_ac23_9f0352eebe99_master (1)\CandidateAPI\bin\Debug\netcoreapp3.0\SQLitePCLRaw.batteries_v2.dll
+C:\Users\ppoddar\Downloads\18_2e_c492_56cc_46d6_ac23_9f0352eebe99_master (1)\CandidateAPI\bin\Debug\netcoreapp3.0\SQLitePCLRaw.nativelibrary.dll
+C:\Users\ppoddar\Downloads\18_2e_c492_56cc_46d6_ac23_9f0352eebe99_master (1)\CandidateAPI\bin\Debug\netcoreapp3.0\SQLitePCLRaw.core.dll
+C:\Users\ppoddar\Downloads\18_2e_c492_56cc_46d6_ac23_9f0352eebe99_master (1)\CandidateAPI\bin\Debug\netcoreapp3.0\SQLitePCLRaw.provider.dynamic_cdecl.dll
+C:\Users\ppoddar\Downloads\18_2e_c492_56cc_46d6_ac23_9f0352eebe99_master (1)\CandidateAPI\bin\Debug\netcoreapp3.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\ppoddar\Downloads\18_2e_c492_56cc_46d6_ac23_9f0352eebe99_master (1)\CandidateAPI\bin\Debug\netcoreapp3.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\ppoddar\Downloads\18_2e_c492_56cc_46d6_ac23_9f0352eebe99_master (1)\CandidateAPI\bin\Debug\netcoreapp3.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\ppoddar\Downloads\18_2e_c492_56cc_46d6_ac23_9f0352eebe99_master (1)\CandidateAPI\bin\Debug\netcoreapp3.0\System.Configuration.ConfigurationManager.dll
+C:\Users\ppoddar\Downloads\18_2e_c492_56cc_46d6_ac23_9f0352eebe99_master (1)\CandidateAPI\bin\Debug\netcoreapp3.0\System.Runtime.Caching.dll
+C:\Users\ppoddar\Downloads\18_2e_c492_56cc_46d6_ac23_9f0352eebe99_master (1)\CandidateAPI\bin\Debug\netcoreapp3.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\ppoddar\Downloads\18_2e_c492_56cc_46d6_ac23_9f0352eebe99_master (1)\CandidateAPI\bin\Debug\netcoreapp3.0\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Users\ppoddar\Downloads\18_2e_c492_56cc_46d6_ac23_9f0352eebe99_master (1)\CandidateAPI\bin\Debug\netcoreapp3.0\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Users\ppoddar\Downloads\18_2e_c492_56cc_46d6_ac23_9f0352eebe99_master (1)\CandidateAPI\bin\Debug\netcoreapp3.0\runtimes\win-arm64\native\sni.dll
+C:\Users\ppoddar\Downloads\18_2e_c492_56cc_46d6_ac23_9f0352eebe99_master (1)\CandidateAPI\bin\Debug\netcoreapp3.0\runtimes\win-x64\native\sni.dll
+C:\Users\ppoddar\Downloads\18_2e_c492_56cc_46d6_ac23_9f0352eebe99_master (1)\CandidateAPI\bin\Debug\netcoreapp3.0\runtimes\win-x86\native\sni.dll
+C:\Users\ppoddar\Downloads\18_2e_c492_56cc_46d6_ac23_9f0352eebe99_master (1)\CandidateAPI\bin\Debug\netcoreapp3.0\runtimes\alpine-x64\native\libe_sqlite3.so
+C:\Users\ppoddar\Downloads\18_2e_c492_56cc_46d6_ac23_9f0352eebe99_master (1)\CandidateAPI\bin\Debug\netcoreapp3.0\runtimes\linux-arm\native\libe_sqlite3.so
+C:\Users\ppoddar\Downloads\18_2e_c492_56cc_46d6_ac23_9f0352eebe99_master (1)\CandidateAPI\bin\Debug\netcoreapp3.0\runtimes\linux-arm64\native\libe_sqlite3.so
+C:\Users\ppoddar\Downloads\18_2e_c492_56cc_46d6_ac23_9f0352eebe99_master (1)\CandidateAPI\bin\Debug\netcoreapp3.0\runtimes\linux-armel\native\libe_sqlite3.so
+C:\Users\ppoddar\Downloads\18_2e_c492_56cc_46d6_ac23_9f0352eebe99_master (1)\CandidateAPI\bin\Debug\netcoreapp3.0\runtimes\linux-musl-x64\native\libe_sqlite3.so
+C:\Users\ppoddar\Downloads\18_2e_c492_56cc_46d6_ac23_9f0352eebe99_master (1)\CandidateAPI\bin\Debug\netcoreapp3.0\runtimes\linux-x64\native\libe_sqlite3.so
+C:\Users\ppoddar\Downloads\18_2e_c492_56cc_46d6_ac23_9f0352eebe99_master (1)\CandidateAPI\bin\Debug\netcoreapp3.0\runtimes\linux-x86\native\libe_sqlite3.so
+C:\Users\ppoddar\Downloads\18_2e_c492_56cc_46d6_ac23_9f0352eebe99_master (1)\CandidateAPI\bin\Debug\netcoreapp3.0\runtimes\osx-x64\native\libe_sqlite3.dylib
+C:\Users\ppoddar\Downloads\18_2e_c492_56cc_46d6_ac23_9f0352eebe99_master (1)\CandidateAPI\bin\Debug\netcoreapp3.0\runtimes\win-arm\native\e_sqlite3.dll
+C:\Users\ppoddar\Downloads\18_2e_c492_56cc_46d6_ac23_9f0352eebe99_master (1)\CandidateAPI\bin\Debug\netcoreapp3.0\runtimes\win-arm64\native\e_sqlite3.dll
+C:\Users\ppoddar\Downloads\18_2e_c492_56cc_46d6_ac23_9f0352eebe99_master (1)\CandidateAPI\bin\Debug\netcoreapp3.0\runtimes\win-x64\native\e_sqlite3.dll
+C:\Users\ppoddar\Downloads\18_2e_c492_56cc_46d6_ac23_9f0352eebe99_master (1)\CandidateAPI\bin\Debug\netcoreapp3.0\runtimes\win-x86\native\e_sqlite3.dll
+C:\Users\ppoddar\Downloads\18_2e_c492_56cc_46d6_ac23_9f0352eebe99_master (1)\CandidateAPI\bin\Debug\netcoreapp3.0\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Users\ppoddar\Downloads\18_2e_c492_56cc_46d6_ac23_9f0352eebe99_master (1)\CandidateAPI\bin\Debug\netcoreapp3.0\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Users\ppoddar\Downloads\18_2e_c492_56cc_46d6_ac23_9f0352eebe99_master (1)\CandidateAPI\bin\Debug\netcoreapp3.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\ppoddar\Downloads\18_2e_c492_56cc_46d6_ac23_9f0352eebe99_master (1)\CandidateAPI\obj\Debug\netcoreapp3.0\CandidateAPI.csproj.AssemblyReference.cache
+C:\Users\ppoddar\Downloads\18_2e_c492_56cc_46d6_ac23_9f0352eebe99_master (1)\CandidateAPI\obj\Debug\netcoreapp3.0\CandidateAPI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ppoddar\Downloads\18_2e_c492_56cc_46d6_ac23_9f0352eebe99_master (1)\CandidateAPI\obj\Debug\netcoreapp3.0\CandidateAPI.AssemblyInfoInputs.cache
+C:\Users\ppoddar\Downloads\18_2e_c492_56cc_46d6_ac23_9f0352eebe99_master (1)\CandidateAPI\obj\Debug\netcoreapp3.0\CandidateAPI.AssemblyInfo.cs
+C:\Users\ppoddar\Downloads\18_2e_c492_56cc_46d6_ac23_9f0352eebe99_master (1)\CandidateAPI\obj\Debug\netcoreapp3.0\CandidateAPI.csproj.CoreCompileInputs.cache
+C:\Users\ppoddar\Downloads\18_2e_c492_56cc_46d6_ac23_9f0352eebe99_master (1)\CandidateAPI\obj\Debug\netcoreapp3.0\CandidateAPI.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\ppoddar\Downloads\18_2e_c492_56cc_46d6_ac23_9f0352eebe99_master (1)\CandidateAPI\obj\Debug\netcoreapp3.0\CandidateAPI.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\ppoddar\Downloads\18_2e_c492_56cc_46d6_ac23_9f0352eebe99_master (1)\CandidateAPI\obj\Debug\netcoreapp3.0\staticwebassets\CandidateAPI.StaticWebAssets.Manifest.cache
+C:\Users\ppoddar\Downloads\18_2e_c492_56cc_46d6_ac23_9f0352eebe99_master (1)\CandidateAPI\obj\Debug\netcoreapp3.0\staticwebassets\CandidateAPI.StaticWebAssets.Pack.cache
+C:\Users\ppoddar\Downloads\18_2e_c492_56cc_46d6_ac23_9f0352eebe99_master (1)\CandidateAPI\obj\Debug\netcoreapp3.0\staticwebassets\msbuild.CandidateAPI.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\ppoddar\Downloads\18_2e_c492_56cc_46d6_ac23_9f0352eebe99_master (1)\CandidateAPI\obj\Debug\netcoreapp3.0\staticwebassets\msbuild.build.CandidateAPI.props
+C:\Users\ppoddar\Downloads\18_2e_c492_56cc_46d6_ac23_9f0352eebe99_master (1)\CandidateAPI\obj\Debug\netcoreapp3.0\staticwebassets\msbuild.buildMultiTargeting.CandidateAPI.props
+C:\Users\ppoddar\Downloads\18_2e_c492_56cc_46d6_ac23_9f0352eebe99_master (1)\CandidateAPI\obj\Debug\netcoreapp3.0\staticwebassets\msbuild.buildTransitive.CandidateAPI.props
+C:\Users\ppoddar\Downloads\18_2e_c492_56cc_46d6_ac23_9f0352eebe99_master (1)\CandidateAPI\obj\Debug\netcoreapp3.0\CandidateAPI.RazorTargetAssemblyInfo.cache
+C:\Users\ppoddar\Downloads\18_2e_c492_56cc_46d6_ac23_9f0352eebe99_master (1)\CandidateAPI\obj\Debug\netcoreapp3.0\CandidateAPI.csproj.CopyComplete
+C:\Users\ppoddar\Downloads\18_2e_c492_56cc_46d6_ac23_9f0352eebe99_master (1)\CandidateAPI\obj\Debug\netcoreapp3.0\CandidateAPI.dll
+C:\Users\ppoddar\Downloads\18_2e_c492_56cc_46d6_ac23_9f0352eebe99_master (1)\CandidateAPI\obj\Debug\netcoreapp3.0\CandidateAPI.pdb
+C:\Users\ppoddar\Downloads\18_2e_c492_56cc_46d6_ac23_9f0352eebe99_master (1)\CandidateAPI\obj\Debug\netcoreapp3.0\CandidateAPI.genruntimeconfig.cache
+C:\Users\ppoddar\Downloads\18_2e_c492_56cc_46d6_ac23_9f0352eebe99_master\18_2e_c492_56cc_46d6_ac23_9f0352eebe99_master\CandidateAPI\bin\Debug\netcoreapp3.0\appsettings.Development.json
+C:\Users\ppoddar\Downloads\18_2e_c492_56cc_46d6_ac23_9f0352eebe99_master\18_2e_c492_56cc_46d6_ac23_9f0352eebe99_master\CandidateAPI\bin\Debug\netcoreapp3.0\appsettings.json
+C:\Users\ppoddar\Downloads\18_2e_c492_56cc_46d6_ac23_9f0352eebe99_master\18_2e_c492_56cc_46d6_ac23_9f0352eebe99_master\CandidateAPI\bin\Debug\netcoreapp3.0\CandidateAPI.StaticWebAssets.xml
+C:\Users\ppoddar\Downloads\18_2e_c492_56cc_46d6_ac23_9f0352eebe99_master\18_2e_c492_56cc_46d6_ac23_9f0352eebe99_master\CandidateAPI\bin\Debug\netcoreapp3.0\CandidateAPI.exe
+C:\Users\ppoddar\Downloads\18_2e_c492_56cc_46d6_ac23_9f0352eebe99_master\18_2e_c492_56cc_46d6_ac23_9f0352eebe99_master\CandidateAPI\bin\Debug\netcoreapp3.0\CandidateAPI.deps.json
+C:\Users\ppoddar\Downloads\18_2e_c492_56cc_46d6_ac23_9f0352eebe99_master\18_2e_c492_56cc_46d6_ac23_9f0352eebe99_master\CandidateAPI\bin\Debug\netcoreapp3.0\CandidateAPI.runtimeconfig.json
+C:\Users\ppoddar\Downloads\18_2e_c492_56cc_46d6_ac23_9f0352eebe99_master\18_2e_c492_56cc_46d6_ac23_9f0352eebe99_master\CandidateAPI\bin\Debug\netcoreapp3.0\CandidateAPI.runtimeconfig.dev.json
+C:\Users\ppoddar\Downloads\18_2e_c492_56cc_46d6_ac23_9f0352eebe99_master\18_2e_c492_56cc_46d6_ac23_9f0352eebe99_master\CandidateAPI\bin\Debug\netcoreapp3.0\CandidateAPI.dll
+C:\Users\ppoddar\Downloads\18_2e_c492_56cc_46d6_ac23_9f0352eebe99_master\18_2e_c492_56cc_46d6_ac23_9f0352eebe99_master\CandidateAPI\bin\Debug\netcoreapp3.0\CandidateAPI.pdb
+C:\Users\ppoddar\Downloads\18_2e_c492_56cc_46d6_ac23_9f0352eebe99_master\18_2e_c492_56cc_46d6_ac23_9f0352eebe99_master\CandidateAPI\bin\Debug\netcoreapp3.0\Castle.Core.dll
+C:\Users\ppoddar\Downloads\18_2e_c492_56cc_46d6_ac23_9f0352eebe99_master\18_2e_c492_56cc_46d6_ac23_9f0352eebe99_master\CandidateAPI\bin\Debug\netcoreapp3.0\Microsoft.AspNetCore.Mvc.Versioning.dll
+C:\Users\ppoddar\Downloads\18_2e_c492_56cc_46d6_ac23_9f0352eebe99_master\18_2e_c492_56cc_46d6_ac23_9f0352eebe99_master\CandidateAPI\bin\Debug\netcoreapp3.0\Microsoft.Data.SqlClient.dll
+C:\Users\ppoddar\Downloads\18_2e_c492_56cc_46d6_ac23_9f0352eebe99_master\18_2e_c492_56cc_46d6_ac23_9f0352eebe99_master\CandidateAPI\bin\Debug\netcoreapp3.0\Microsoft.Data.Sqlite.dll
+C:\Users\ppoddar\Downloads\18_2e_c492_56cc_46d6_ac23_9f0352eebe99_master\18_2e_c492_56cc_46d6_ac23_9f0352eebe99_master\CandidateAPI\bin\Debug\netcoreapp3.0\Microsoft.DotNet.PlatformAbstractions.dll
+C:\Users\ppoddar\Downloads\18_2e_c492_56cc_46d6_ac23_9f0352eebe99_master\18_2e_c492_56cc_46d6_ac23_9f0352eebe99_master\CandidateAPI\bin\Debug\netcoreapp3.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\ppoddar\Downloads\18_2e_c492_56cc_46d6_ac23_9f0352eebe99_master\18_2e_c492_56cc_46d6_ac23_9f0352eebe99_master\CandidateAPI\bin\Debug\netcoreapp3.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\ppoddar\Downloads\18_2e_c492_56cc_46d6_ac23_9f0352eebe99_master\18_2e_c492_56cc_46d6_ac23_9f0352eebe99_master\CandidateAPI\bin\Debug\netcoreapp3.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\ppoddar\Downloads\18_2e_c492_56cc_46d6_ac23_9f0352eebe99_master\18_2e_c492_56cc_46d6_ac23_9f0352eebe99_master\CandidateAPI\bin\Debug\netcoreapp3.0\Microsoft.EntityFrameworkCore.InMemory.dll
+C:\Users\ppoddar\Downloads\18_2e_c492_56cc_46d6_ac23_9f0352eebe99_master\18_2e_c492_56cc_46d6_ac23_9f0352eebe99_master\CandidateAPI\bin\Debug\netcoreapp3.0\Microsoft.EntityFrameworkCore.Proxies.dll
+C:\Users\ppoddar\Downloads\18_2e_c492_56cc_46d6_ac23_9f0352eebe99_master\18_2e_c492_56cc_46d6_ac23_9f0352eebe99_master\CandidateAPI\bin\Debug\netcoreapp3.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\ppoddar\Downloads\18_2e_c492_56cc_46d6_ac23_9f0352eebe99_master\18_2e_c492_56cc_46d6_ac23_9f0352eebe99_master\CandidateAPI\bin\Debug\netcoreapp3.0\Microsoft.EntityFrameworkCore.Sqlite.dll
+C:\Users\ppoddar\Downloads\18_2e_c492_56cc_46d6_ac23_9f0352eebe99_master\18_2e_c492_56cc_46d6_ac23_9f0352eebe99_master\CandidateAPI\bin\Debug\netcoreapp3.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\ppoddar\Downloads\18_2e_c492_56cc_46d6_ac23_9f0352eebe99_master\18_2e_c492_56cc_46d6_ac23_9f0352eebe99_master\CandidateAPI\bin\Debug\netcoreapp3.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\ppoddar\Downloads\18_2e_c492_56cc_46d6_ac23_9f0352eebe99_master\18_2e_c492_56cc_46d6_ac23_9f0352eebe99_master\CandidateAPI\bin\Debug\netcoreapp3.0\Microsoft.Identity.Client.dll
+C:\Users\ppoddar\Downloads\18_2e_c492_56cc_46d6_ac23_9f0352eebe99_master\18_2e_c492_56cc_46d6_ac23_9f0352eebe99_master\CandidateAPI\bin\Debug\netcoreapp3.0\Microsoft.OpenApi.dll
+C:\Users\ppoddar\Downloads\18_2e_c492_56cc_46d6_ac23_9f0352eebe99_master\18_2e_c492_56cc_46d6_ac23_9f0352eebe99_master\CandidateAPI\bin\Debug\netcoreapp3.0\Newtonsoft.Json.dll
+C:\Users\ppoddar\Downloads\18_2e_c492_56cc_46d6_ac23_9f0352eebe99_master\18_2e_c492_56cc_46d6_ac23_9f0352eebe99_master\CandidateAPI\bin\Debug\netcoreapp3.0\SQLitePCLRaw.batteries_v2.dll
+C:\Users\ppoddar\Downloads\18_2e_c492_56cc_46d6_ac23_9f0352eebe99_master\18_2e_c492_56cc_46d6_ac23_9f0352eebe99_master\CandidateAPI\bin\Debug\netcoreapp3.0\SQLitePCLRaw.nativelibrary.dll
+C:\Users\ppoddar\Downloads\18_2e_c492_56cc_46d6_ac23_9f0352eebe99_master\18_2e_c492_56cc_46d6_ac23_9f0352eebe99_master\CandidateAPI\bin\Debug\netcoreapp3.0\SQLitePCLRaw.core.dll
+C:\Users\ppoddar\Downloads\18_2e_c492_56cc_46d6_ac23_9f0352eebe99_master\18_2e_c492_56cc_46d6_ac23_9f0352eebe99_master\CandidateAPI\bin\Debug\netcoreapp3.0\SQLitePCLRaw.provider.dynamic_cdecl.dll
+C:\Users\ppoddar\Downloads\18_2e_c492_56cc_46d6_ac23_9f0352eebe99_master\18_2e_c492_56cc_46d6_ac23_9f0352eebe99_master\CandidateAPI\bin\Debug\netcoreapp3.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\ppoddar\Downloads\18_2e_c492_56cc_46d6_ac23_9f0352eebe99_master\18_2e_c492_56cc_46d6_ac23_9f0352eebe99_master\CandidateAPI\bin\Debug\netcoreapp3.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\ppoddar\Downloads\18_2e_c492_56cc_46d6_ac23_9f0352eebe99_master\18_2e_c492_56cc_46d6_ac23_9f0352eebe99_master\CandidateAPI\bin\Debug\netcoreapp3.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\ppoddar\Downloads\18_2e_c492_56cc_46d6_ac23_9f0352eebe99_master\18_2e_c492_56cc_46d6_ac23_9f0352eebe99_master\CandidateAPI\bin\Debug\netcoreapp3.0\System.Configuration.ConfigurationManager.dll
+C:\Users\ppoddar\Downloads\18_2e_c492_56cc_46d6_ac23_9f0352eebe99_master\18_2e_c492_56cc_46d6_ac23_9f0352eebe99_master\CandidateAPI\bin\Debug\netcoreapp3.0\System.Runtime.Caching.dll
+C:\Users\ppoddar\Downloads\18_2e_c492_56cc_46d6_ac23_9f0352eebe99_master\18_2e_c492_56cc_46d6_ac23_9f0352eebe99_master\CandidateAPI\bin\Debug\netcoreapp3.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\ppoddar\Downloads\18_2e_c492_56cc_46d6_ac23_9f0352eebe99_master\18_2e_c492_56cc_46d6_ac23_9f0352eebe99_master\CandidateAPI\bin\Debug\netcoreapp3.0\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Users\ppoddar\Downloads\18_2e_c492_56cc_46d6_ac23_9f0352eebe99_master\18_2e_c492_56cc_46d6_ac23_9f0352eebe99_master\CandidateAPI\bin\Debug\netcoreapp3.0\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Users\ppoddar\Downloads\18_2e_c492_56cc_46d6_ac23_9f0352eebe99_master\18_2e_c492_56cc_46d6_ac23_9f0352eebe99_master\CandidateAPI\bin\Debug\netcoreapp3.0\runtimes\win-arm64\native\sni.dll
+C:\Users\ppoddar\Downloads\18_2e_c492_56cc_46d6_ac23_9f0352eebe99_master\18_2e_c492_56cc_46d6_ac23_9f0352eebe99_master\CandidateAPI\bin\Debug\netcoreapp3.0\runtimes\win-x64\native\sni.dll
+C:\Users\ppoddar\Downloads\18_2e_c492_56cc_46d6_ac23_9f0352eebe99_master\18_2e_c492_56cc_46d6_ac23_9f0352eebe99_master\CandidateAPI\bin\Debug\netcoreapp3.0\runtimes\win-x86\native\sni.dll
+C:\Users\ppoddar\Downloads\18_2e_c492_56cc_46d6_ac23_9f0352eebe99_master\18_2e_c492_56cc_46d6_ac23_9f0352eebe99_master\CandidateAPI\bin\Debug\netcoreapp3.0\runtimes\alpine-x64\native\libe_sqlite3.so
+C:\Users\ppoddar\Downloads\18_2e_c492_56cc_46d6_ac23_9f0352eebe99_master\18_2e_c492_56cc_46d6_ac23_9f0352eebe99_master\CandidateAPI\bin\Debug\netcoreapp3.0\runtimes\linux-arm\native\libe_sqlite3.so
+C:\Users\ppoddar\Downloads\18_2e_c492_56cc_46d6_ac23_9f0352eebe99_master\18_2e_c492_56cc_46d6_ac23_9f0352eebe99_master\CandidateAPI\bin\Debug\netcoreapp3.0\runtimes\linux-arm64\native\libe_sqlite3.so
+C:\Users\ppoddar\Downloads\18_2e_c492_56cc_46d6_ac23_9f0352eebe99_master\18_2e_c492_56cc_46d6_ac23_9f0352eebe99_master\CandidateAPI\bin\Debug\netcoreapp3.0\runtimes\linux-armel\native\libe_sqlite3.so
+C:\Users\ppoddar\Downloads\18_2e_c492_56cc_46d6_ac23_9f0352eebe99_master\18_2e_c492_56cc_46d6_ac23_9f0352eebe99_master\CandidateAPI\bin\Debug\netcoreapp3.0\runtimes\linux-musl-x64\native\libe_sqlite3.so
+C:\Users\ppoddar\Downloads\18_2e_c492_56cc_46d6_ac23_9f0352eebe99_master\18_2e_c492_56cc_46d6_ac23_9f0352eebe99_master\CandidateAPI\bin\Debug\netcoreapp3.0\runtimes\linux-x64\native\libe_sqlite3.so
+C:\Users\ppoddar\Downloads\18_2e_c492_56cc_46d6_ac23_9f0352eebe99_master\18_2e_c492_56cc_46d6_ac23_9f0352eebe99_master\CandidateAPI\bin\Debug\netcoreapp3.0\runtimes\linux-x86\native\libe_sqlite3.so
+C:\Users\ppoddar\Downloads\18_2e_c492_56cc_46d6_ac23_9f0352eebe99_master\18_2e_c492_56cc_46d6_ac23_9f0352eebe99_master\CandidateAPI\bin\Debug\netcoreapp3.0\runtimes\osx-x64\native\libe_sqlite3.dylib
+C:\Users\ppoddar\Downloads\18_2e_c492_56cc_46d6_ac23_9f0352eebe99_master\18_2e_c492_56cc_46d6_ac23_9f0352eebe99_master\CandidateAPI\bin\Debug\netcoreapp3.0\runtimes\win-arm\native\e_sqlite3.dll
+C:\Users\ppoddar\Downloads\18_2e_c492_56cc_46d6_ac23_9f0352eebe99_master\18_2e_c492_56cc_46d6_ac23_9f0352eebe99_master\CandidateAPI\bin\Debug\netcoreapp3.0\runtimes\win-arm64\native\e_sqlite3.dll
+C:\Users\ppoddar\Downloads\18_2e_c492_56cc_46d6_ac23_9f0352eebe99_master\18_2e_c492_56cc_46d6_ac23_9f0352eebe99_master\CandidateAPI\bin\Debug\netcoreapp3.0\runtimes\win-x64\native\e_sqlite3.dll
+C:\Users\ppoddar\Downloads\18_2e_c492_56cc_46d6_ac23_9f0352eebe99_master\18_2e_c492_56cc_46d6_ac23_9f0352eebe99_master\CandidateAPI\bin\Debug\netcoreapp3.0\runtimes\win-x86\native\e_sqlite3.dll
+C:\Users\ppoddar\Downloads\18_2e_c492_56cc_46d6_ac23_9f0352eebe99_master\18_2e_c492_56cc_46d6_ac23_9f0352eebe99_master\CandidateAPI\bin\Debug\netcoreapp3.0\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Users\ppoddar\Downloads\18_2e_c492_56cc_46d6_ac23_9f0352eebe99_master\18_2e_c492_56cc_46d6_ac23_9f0352eebe99_master\CandidateAPI\bin\Debug\netcoreapp3.0\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Users\ppoddar\Downloads\18_2e_c492_56cc_46d6_ac23_9f0352eebe99_master\18_2e_c492_56cc_46d6_ac23_9f0352eebe99_master\CandidateAPI\bin\Debug\netcoreapp3.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\ppoddar\Downloads\18_2e_c492_56cc_46d6_ac23_9f0352eebe99_master\18_2e_c492_56cc_46d6_ac23_9f0352eebe99_master\CandidateAPI\obj\Debug\netcoreapp3.0\CandidateAPI.csproj.AssemblyReference.cache
+C:\Users\ppoddar\Downloads\18_2e_c492_56cc_46d6_ac23_9f0352eebe99_master\18_2e_c492_56cc_46d6_ac23_9f0352eebe99_master\CandidateAPI\obj\Debug\netcoreapp3.0\CandidateAPI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ppoddar\Downloads\18_2e_c492_56cc_46d6_ac23_9f0352eebe99_master\18_2e_c492_56cc_46d6_ac23_9f0352eebe99_master\CandidateAPI\obj\Debug\netcoreapp3.0\CandidateAPI.AssemblyInfoInputs.cache
+C:\Users\ppoddar\Downloads\18_2e_c492_56cc_46d6_ac23_9f0352eebe99_master\18_2e_c492_56cc_46d6_ac23_9f0352eebe99_master\CandidateAPI\obj\Debug\netcoreapp3.0\CandidateAPI.AssemblyInfo.cs
+C:\Users\ppoddar\Downloads\18_2e_c492_56cc_46d6_ac23_9f0352eebe99_master\18_2e_c492_56cc_46d6_ac23_9f0352eebe99_master\CandidateAPI\obj\Debug\netcoreapp3.0\CandidateAPI.csproj.CoreCompileInputs.cache
+C:\Users\ppoddar\Downloads\18_2e_c492_56cc_46d6_ac23_9f0352eebe99_master\18_2e_c492_56cc_46d6_ac23_9f0352eebe99_master\CandidateAPI\obj\Debug\netcoreapp3.0\CandidateAPI.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\ppoddar\Downloads\18_2e_c492_56cc_46d6_ac23_9f0352eebe99_master\18_2e_c492_56cc_46d6_ac23_9f0352eebe99_master\CandidateAPI\obj\Debug\netcoreapp3.0\CandidateAPI.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\ppoddar\Downloads\18_2e_c492_56cc_46d6_ac23_9f0352eebe99_master\18_2e_c492_56cc_46d6_ac23_9f0352eebe99_master\CandidateAPI\obj\Debug\netcoreapp3.0\staticwebassets\CandidateAPI.StaticWebAssets.Manifest.cache
+C:\Users\ppoddar\Downloads\18_2e_c492_56cc_46d6_ac23_9f0352eebe99_master\18_2e_c492_56cc_46d6_ac23_9f0352eebe99_master\CandidateAPI\obj\Debug\netcoreapp3.0\staticwebassets\CandidateAPI.StaticWebAssets.Pack.cache
+C:\Users\ppoddar\Downloads\18_2e_c492_56cc_46d6_ac23_9f0352eebe99_master\18_2e_c492_56cc_46d6_ac23_9f0352eebe99_master\CandidateAPI\obj\Debug\netcoreapp3.0\staticwebassets\msbuild.CandidateAPI.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\ppoddar\Downloads\18_2e_c492_56cc_46d6_ac23_9f0352eebe99_master\18_2e_c492_56cc_46d6_ac23_9f0352eebe99_master\CandidateAPI\obj\Debug\netcoreapp3.0\staticwebassets\msbuild.build.CandidateAPI.props
+C:\Users\ppoddar\Downloads\18_2e_c492_56cc_46d6_ac23_9f0352eebe99_master\18_2e_c492_56cc_46d6_ac23_9f0352eebe99_master\CandidateAPI\obj\Debug\netcoreapp3.0\staticwebassets\msbuild.buildMultiTargeting.CandidateAPI.props
+C:\Users\ppoddar\Downloads\18_2e_c492_56cc_46d6_ac23_9f0352eebe99_master\18_2e_c492_56cc_46d6_ac23_9f0352eebe99_master\CandidateAPI\obj\Debug\netcoreapp3.0\staticwebassets\msbuild.buildTransitive.CandidateAPI.props
+C:\Users\ppoddar\Downloads\18_2e_c492_56cc_46d6_ac23_9f0352eebe99_master\18_2e_c492_56cc_46d6_ac23_9f0352eebe99_master\CandidateAPI\obj\Debug\netcoreapp3.0\CandidateAPI.RazorTargetAssemblyInfo.cache
+C:\Users\ppoddar\Downloads\18_2e_c492_56cc_46d6_ac23_9f0352eebe99_master\18_2e_c492_56cc_46d6_ac23_9f0352eebe99_master\CandidateAPI\obj\Debug\netcoreapp3.0\CandidateAPI.csproj.CopyComplete
+C:\Users\ppoddar\Downloads\18_2e_c492_56cc_46d6_ac23_9f0352eebe99_master\18_2e_c492_56cc_46d6_ac23_9f0352eebe99_master\CandidateAPI\obj\Debug\netcoreapp3.0\CandidateAPI.dll
+C:\Users\ppoddar\Downloads\18_2e_c492_56cc_46d6_ac23_9f0352eebe99_master\18_2e_c492_56cc_46d6_ac23_9f0352eebe99_master\CandidateAPI\obj\Debug\netcoreapp3.0\CandidateAPI.pdb
+C:\Users\ppoddar\Downloads\18_2e_c492_56cc_46d6_ac23_9f0352eebe99_master\18_2e_c492_56cc_46d6_ac23_9f0352eebe99_master\CandidateAPI\obj\Debug\netcoreapp3.0\CandidateAPI.genruntimeconfig.cache
