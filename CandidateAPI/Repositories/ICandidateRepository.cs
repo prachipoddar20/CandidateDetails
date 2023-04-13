@@ -13,7 +13,7 @@ namespace CandidateAPI.Repositories
         Task<ICollection<Candidate>> GetAllAsync();
         void AddCandidateAsync(Candidate candidate);
 
-        Task<IEnumerable<CandidateViewModel>> GetMostExpCandidates(string skill);
+        Task<IEnumerable<CandidateViewModel>> GetMostExperiencedCandidates(string skill);
 
         Task<CandidateSkillViewModel> GetAllSkillsForCandidateNameAsync(string firstname, string lastname);
 

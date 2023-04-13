@@ -22,20 +22,32 @@ namespace CandidateAPI.Repositories
             _cache = cache;
         }
 
-
+        /// <summary>
+        /// Fetches list of candidate with details from db
+        /// </summary>
+        /// <returns>Returns list of candidate</returns>
         public virtual async Task<ICollection<Candidate>> GetAllAsync()
         {
-
             return await _context.Set<Candidate>().ToListAsync();
         }
 
+        /// <summary>
+        /// Creates candidate in db
+        /// </summary>
+        /// <param name="candidate"></param>
         public virtual void AddCandidateAsync(Candidate candidate)
         {
             _context.Add(candidate);
             _context.SaveChanges();
         }
 
-        public virtual async Task<IEnumerable<CandidateViewModel>> GetMostExpCandidates(string skill)
+        /// <summary>
+        /// Checks if the given skill exists in the system, if yes gets the candidate details with experience in the skill in decreasing order of years of experience
+        /// </summary>
+        /// <param name="skill"></param>
+        /// <returns></returns>
+        /// <exception cref="Exception"></exception>
+        public virtual async Task<IEnumerable<CandidateViewModel>> GetMostExperiencedCandidates(string skill)
         {
             //checking if skill exists
             if (_context.Skills.Any(s => s.Name == skill))
@@ -74,8 +86,16 @@ namespace CandidateAPI.Repositories
             }
         }
 
+        /// <summary>
+        /// Checks if user with the given name exists in db, if yes gets its details along with skill details
+        /// </summary>
+        /// <param name="firstname"></param>
+        /// <param name="lastname"></param>
+        /// <returns>Returns candidate details along with skill details</returns>
+        /// <exception cref="Exception"></exception>
         public virtual async Task<CandidateSkillViewModel> GetAllSkillsForCandidateNameAsync(string firstname, string lastname)
         {
+            //checks in cache first, if not found here then fetches from db
             _cache.TryGetValue(firstname + lastname, out CandidateSkillViewModel response);
 
             //check if user exists
@@ -121,8 +141,15 @@ namespace CandidateAPI.Repositories
             return await result.FirstOrDefaultAsync();
         }
 
+        /// <summary>
+        /// Checks if user with the given id exists in db, if yes gets its details along with skill details
+        /// </summary>
+        /// <param name="id"></param>
+        /// <returns>Returns details along with skill details</returns>
+        /// <exception cref="Exception"></exception>
         public virtual async Task<CandidateSkillViewModel> GetAllSkillsForCandidateIdAsync(int id)
         {
+            //checks in cache first, if not found here then fetches from db
             _cache.TryGetValue(id, out CandidateSkillViewModel response);
 
             if (!(_context.Candidates.Any(c => c.Id == id)))

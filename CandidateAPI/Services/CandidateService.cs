@@ -26,11 +26,11 @@ namespace CandidateAPI.Services
         }
 
 
-        public async Task<IEnumerable<CandidateViewModel>> GetMostExpCandidates(string skill)
+        public async Task<IEnumerable<CandidateViewModel>> GetMostExperincedCandidates(string skill)
         {
             try
             {
-                var result = _candidateRepository.GetMostExpCandidates(skill);
+                var result = _candidateRepository.GetMostExperiencedCandidates(skill);
                 return await result;
             }
             catch (Exception ex)

@@ -13,7 +13,7 @@ namespace CandidateAPI.Services
 
         void AddCandidates(Candidate candidate);
 
-        Task<IEnumerable<CandidateViewModel>> GetMostExpCandidates(string skill);
+        Task<IEnumerable<CandidateViewModel>> GetMostExperincedCandidates(string skill);
 
         Task<CandidateSkillViewModel> GetAllSkillsForCandidateNameAsync(string firstname, string lastname);
 
